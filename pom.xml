@@ -10,5 +10,5 @@
 	<artifactId>market-newsletter-api</artifactId>
 	<name>market-newsletter-api</name>
 	<packaging>jar</packaging>
-	<version>1.0.0</version>
+	<version>1.1.0</version>
 </project>
